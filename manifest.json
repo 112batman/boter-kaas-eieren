@@ -1,0 +1,10 @@
+{
+    "entrypoint": "tweeSpelers.html",
+    "instructions": "Instructies.md",
+    "files": [
+        "tweeSpelers.html",
+        "tweeSpelers.js",
+        "boter-kaas-eieren-simpel.css",
+        "boter-kaas-eieren-fancy.css"
+    ]
+}
