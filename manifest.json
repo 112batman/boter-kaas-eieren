@@ -6,5 +6,7 @@
         "tweeSpelers.js",
         "boter-kaas-eieren-simpel.css",
         "boter-kaas-eieren-fancy.css"
-    ]
+    ],
+    "author": "CoderDojo-Enschede",
+    "id": "boter-kaas-eieren"
 }
