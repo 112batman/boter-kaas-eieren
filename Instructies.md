@@ -33,6 +33,7 @@ Onder het spel staat *Klik 'nieuw spel' om te beginnen*. Maar je kan helemaal ne
 Er moet een knop komen waarop je kan klikken, zodat het spel begint. Die gaan we maken.
 
 ▶▶▶ Zoek *Opdracht 1 en 2* in het bestand `tweeSpelers.html`.
+@highlight[Laat regel zien](tweeSpelers.html, 49, 50, 51)
 
 Gevonden? Nu gaan we een knop maken zodat we het spel kunnen beginnen.
 
